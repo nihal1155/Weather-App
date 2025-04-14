@@ -5,16 +5,15 @@
   "keywords": [],
   "main": "src/index.tsx",
   "dependencies": {
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "react-scripts": "^5.0.0",
-    "react-icons": "5.5.0",
-    "axios": "1.8.4",
-    "react-tsparticles": "3.8.1",
-    "tsparticles": "3.8.1",
-    "@tsparticles/react": "3.8.1",
-    "@tsparticles/basic": "3.8.1",
-    "@tsparticles/all": "3.8.1"
+      "react": "^19.0.0",
+      "react-dom": "^19.0.0",
+      "react-scripts": "^5.0.0",
+      "react-icons": "5.5.0",
+      "axios": "1.8.4",
+      "@tsparticles/react": "3.0.0",
+      "tsparticles": "3.0.0",
+      "@tsparticles/basic": "3.0.0",
+      "@tsparticles/all": "3.0.0"
   },
   "devDependencies": {
     "@types/react": "19.0.0",
